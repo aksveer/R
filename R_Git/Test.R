@@ -1,3 +1,5 @@
 a = c(1,2,3,4)
 
-mean(a)
+m = mean(a)
+
+b= sd(a)
